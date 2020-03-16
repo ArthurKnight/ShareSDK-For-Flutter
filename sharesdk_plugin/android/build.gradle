@@ -41,7 +41,8 @@ rootProject.allprojects {
 
 
 android {
-    compileSdkVersion 27
+    //compileSdkVersion 27
+    compileSdkVersion 28
 
     defaultConfig {
         minSdkVersion 16
